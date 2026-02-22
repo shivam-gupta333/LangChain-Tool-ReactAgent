@@ -1,0 +1,15 @@
+langchain
+langchain-groq
+groq
+openai
+langchain-openai
+langchain-huggingface
+langchain-google-genai
+python-dotenv
+pydantic
+langchain_core
+requests
+duckduckgo-search
+ddgs
+langchain-classic
+langchainhub
